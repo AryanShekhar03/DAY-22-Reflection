@@ -1,0 +1,13 @@
+C:\Users\Shivam Shekhar\source\DAY22 Reflection\Day22Reflection\obj\Debug\netcoreapp3.1\Day22Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\DAY22 Reflection\Day22Reflection\obj\Debug\netcoreapp3.1\Day22Reflection.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\DAY22 Reflection\Day22Reflection\obj\Debug\netcoreapp3.1\Day22Reflection.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\DAY22 Reflection\Day22Reflection\obj\Debug\netcoreapp3.1\Day22Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\DAY22 Reflection\Day22Reflection\bin\Debug\netcoreapp3.1\Day22Reflection.exe
+C:\Users\Shivam Shekhar\source\DAY22 Reflection\Day22Reflection\bin\Debug\netcoreapp3.1\Day22Reflection.deps.json
+C:\Users\Shivam Shekhar\source\DAY22 Reflection\Day22Reflection\bin\Debug\netcoreapp3.1\Day22Reflection.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\DAY22 Reflection\Day22Reflection\bin\Debug\netcoreapp3.1\Day22Reflection.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\DAY22 Reflection\Day22Reflection\bin\Debug\netcoreapp3.1\Day22Reflection.dll
+C:\Users\Shivam Shekhar\source\DAY22 Reflection\Day22Reflection\bin\Debug\netcoreapp3.1\Day22Reflection.pdb
+C:\Users\Shivam Shekhar\source\DAY22 Reflection\Day22Reflection\obj\Debug\netcoreapp3.1\Day22Reflection.dll
+C:\Users\Shivam Shekhar\source\DAY22 Reflection\Day22Reflection\obj\Debug\netcoreapp3.1\Day22Reflection.pdb
+C:\Users\Shivam Shekhar\source\DAY22 Reflection\Day22Reflection\obj\Debug\netcoreapp3.1\Day22Reflection.genruntimeconfig.cache
